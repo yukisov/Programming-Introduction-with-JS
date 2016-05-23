@@ -1,0 +1,31 @@
+{
+  "name": "iot-literacy",
+  "version": "1.0.0",
+  "description": "A book about IOT literacy",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-sharing": "^1.0.2"
+  },
+  "devDependencies": {
+    "gitbook-plugin-fontsettings": "^1.0.3",
+    "gitbook-plugin-github-buttons": "^1.2.3",
+    "gitbook-plugin-highlight": "^2.0.2",
+    "gitbook-plugin-lunr": "^1.1.0",
+    "gitbook-plugin-sharing": "^1.0.2"
+  },
+  "scripts": {
+    "build": "gitbook build",
+    "build-debug": "gitbook build . --log=debug --debug",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukisov/IOT-Literacy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukisov/IOT-Literacy/issues"
+  },
+  "homepage": "https://github.com/yukisov/IOT-Literacy#readme"
+}

@@ -1,0 +1,27 @@
+{
+  "gitbook": "^2.6.7",
+  "plugins": [
+    "fontsettings",
+    "sharing",
+    "highlight"
+  ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": null,
+      "family": "sans",
+      "size": 2
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook", "google", "twitter",
+        "weibo", "instapaper"
+      ]
+    }
+  }
+}
