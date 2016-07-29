@@ -4,7 +4,8 @@
   "description": "A book about IOT literacy",
   "main": "index.js",
   "dependencies": {
-    "gitbook-plugin-sharing": "^1.0.2"
+    "gitbook-plugin-sharing": "^1.0.2",
+    "glob": "^7.0.5"
   },
   "devDependencies": {
     "gitbook-plugin-fontsettings": "^1.0.3",
