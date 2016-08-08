@@ -25,7 +25,7 @@ var filenames = glob.sync(dirPath, options)
 filenames.forEach(function(filename) {
 
   //console.log(filename);
-  content += "![image](" + relative('.', filename) + ")\n"
+  content += "![image](/" + relative('.', filename) + ")\n"
 });
 
 fs.writeFileSync("./make_img_links.txt", content);
