@@ -12,3 +12,5 @@
 ![image](/img/HelloWorld/2016-08-08_16_30_41-atom-edit-hello.png)
 ![image](/img/HelloWorld/2016-08-08_16_37_04-atom-save-hello.png)
 ![image](/img/HelloWorld/2016-08-08_16_39_27-atom-save-hello.png)
+![image](/img/HelloWorld/2016-08-08_17_56_16-right-click.png)
+![image](/img/HelloWorld/2016-08-08_17_57_11-create-file.png)
