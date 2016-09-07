@@ -65,3 +65,6 @@ Node.jsのインストール手順
 
     ![image](/img/Installation_NodeJS/2016-07-28_18_05_59-Nodejs_Setup.png)
 
+
+以上で、Node.jsがインストールできました。
+
