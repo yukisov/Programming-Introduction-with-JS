@@ -1,5 +1,6 @@
 # Summary
 
+* [はじめに](README.md)
 * [プログラミングとは](ja/010_about/README.md)
 * [使用する環境](ja/020_env/README.md)
 * [Node.jsのインストール](ja/030_nodejs_install/README.md)
